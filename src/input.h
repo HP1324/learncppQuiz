@@ -2,7 +2,7 @@
 #define INPUT_H
 #include<iostream>
 
-double userInput(void);
-char getSymbol(void);
+double userInput();
+char getSymbol();
 
 #endif
